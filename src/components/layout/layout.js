@@ -12,9 +12,9 @@ const Layout = ({ children, title }) => {
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
             </Head>
             <Helmet>
-                <meta name="description" content="Your description here" />
-                <meta name="keywords" content="your, keywords, here" />
-                
+                <meta name="description" content="Personal Care and Beauty: Pamper yourself with our collection of personal care and beauty products. 
+        From skincare essentials to grooming tools, we provide premium products to help you look and feel your best." />
+                <meta name="keywords" content="Personal Care and Beauty Products" />
             </Helmet>
             {children}
         </div>
